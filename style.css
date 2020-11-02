@@ -1,0 +1,96 @@
+.nav-item{
+    color: white;
+
+}
+.bar{
+    padding-top: 10px;
+}
+
+.top{
+    background-color: rgb(2, 35, 46);
+    color: white;
+    height: 300px;
+    border-radius: 10px;
+    padding: 40px;
+   
+}
+
+.container{
+    padding-top: 50px;
+}
+.orange-bg{
+    
+    
+    color:darkslategrey;
+    padding: 40px;
+    border-radius: 5px;
+    
+}
+
+.rong{
+    background-image: url("bg-1.png"),url("bg-2.png");
+    background-repeat:no-repeat,no-repeat;
+    background-position: center, left bottom;
+    padding-top:30px;
+    height:100%;
+    width:100%;
+    
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    
+}
+
+.card1{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 3px 3px 3px 30px;
+    height: 200px;
+    width: 200px;
+    padding: 25px;
+
+   
+   
+    
+    
+    
+}
+.card2{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 3px 3px 30px 3px;
+    height: 200px;
+    width: 200px;
+    padding: 25px;
+    
+    
+    
+    
+}
+.lala{
+    padding-top: 150px;
+}
+
+
+.under{
+    -webkit-text-decoration: slateblue solid underline;
+    text-decoration: slateblue solid underline;
+    -webkit-text-underline-position: under;
+    text-underline-position: under;
+  }
+
+  u {
+    text-decoration: none;
+    border-bottom: 10px solid orangered;
+    border-radius: 10px;
+    padding:10px;
+    background: transparent;
+    height: 10px;
+    width: 255px;
+    
+
+    
+  }​

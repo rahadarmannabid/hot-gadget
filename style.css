@@ -75,22 +75,9 @@
 }
 
 
-.under{
-    -webkit-text-decoration: slateblue solid underline;
-    text-decoration: slateblue solid underline;
-    -webkit-text-underline-position: under;
-    text-underline-position: under;
-  }
-
-  u {
+  u{
     text-decoration: none;
     border-bottom: 10px solid orangered;
     border-radius: 10px;
     padding:10px;
-    background: transparent;
-    height: 10px;
-    width: 255px;
-    
-
-    
   }​
